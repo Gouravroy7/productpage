@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+   
+}
+
+.head-wrapper {
+  margin-bottom: 50px;
+}
+
+.description-wrapper {
+  font-style: italic;
+  font-weight: 200;
+  margin-bottom: 40px;
+  margin-right: 50px;
+  
+}
+
+.watch-style {
+  width: 100px;
+  
+}
+
+.watch-style:hover  {
+  border : 2px solid teal;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.bigwatch-style {
+  width: 400px;
+  
+}
+
+.left-area {
+  float: left;
+  padding : 25px 20px;
+  margin : 50px;
+  margin-left: 50px;
+  position: relative;
+}
+
+.right-area {
+  float: right;
+  padding : 25px 20px;
+  margin-top: -540px;
+}
+
+.feature-button {
+  padding : 8px 24px;
+  margin-right: 16px;
+  background-color: gainsboro;
+  border: none;
+  border-radius: 4px;
+}
+
+.time-feature {
+  font-size: 30px;
+  color:white;
+  position: absolute;
+  top : 38%;
+  left: 40%;
+}
+
+
+
+
+
